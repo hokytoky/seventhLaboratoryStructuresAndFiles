@@ -1,0 +1,5 @@
+Doom;Action;1993;Intel 486;8
+Quake;Action;1996;Pentium;16
+Portal;Puzzle;2007;Core 2 Duo;512
+Half-Life 2;Action;2004;Pentium 4;256
+Tetris;Puzzle;1984;Intel 8086;1
